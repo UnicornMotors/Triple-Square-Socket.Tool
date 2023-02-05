@@ -1,8 +1,10 @@
 # Triple-Square-Socket.Tool
 
-sch: https://www.google.com/search?q=volkswagen+seat+bolt+Triple+Square+Socket,
+sch: https://www.google.com/search?q=volkswagen+seat+bolt+Triple+Square+Socket, https://www.google.com/search?q=2006+volkswagen+jetta+seat+bolt+size
 
-Discuss: https://www.passatworld.com/threads/triple-square-bit-size-for-seats.226667/,
+# Discuss:
+- https://www.passatworld.com/threads/triple-square-bit-size-for-seats.226667/,
+- https://forums.tdiclub.com/index.php?threads/what-size-is-front-seat-bolt.335889/
 
 # market:
 ## local:
