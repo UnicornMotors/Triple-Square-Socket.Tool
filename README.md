@@ -9,10 +9,13 @@ Discuss: https://www.passatworld.com/threads/triple-square-bit-size-for-seats.22
 - https://www.homedepot.com/b/Tools-Hand-Tools-Ratchets-Sockets-Sockets/Triple-Square/N-5yc1vZc24uZ1z19ub9,
 - https://www.lowes.com/pd/Capri-Tools-10-Piece-XZN-Triple-Square-Spline-Bit-Socket-Set-Metric/1002326906,
 - https://www.homedepot.com/p/Capri-Tools-XZN-Triple-Square-Bit-Socket-Set-10-Piece-CP30030/206996139,
-- https://www.walmart.com/c/kp/triple-square-set
 
 - https://www.autozone.com/screwdrivers/driver-bit/p/duralast-1-4in-drive-and-3-8in-drive-triple-square-bit-socket-set-9-piece/1077622_0
 - https://www.autozone.com/screwdrivers/driver-bit/p/duralast-3-8in-and-1-2in-drive-triple-square-bit-socket-set-4-piece/582086_0_0
+
+sch:
+- https://shop.advanceautoparts.com/web/SearchResults?searchTerm=Triple+Square+Socket&storeId=10151&catalogId=10051&langId=-1
+- https://www.walmart.com/c/kp/triple-square-set
 
 ## online:
 - https://www.amazon.com/Neiko-10078A-Triple-Square-Spline/dp/B000XYOUTA
