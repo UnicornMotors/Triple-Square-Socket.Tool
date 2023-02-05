@@ -20,4 +20,12 @@ sch:
 - https://www.walmart.com/c/kp/triple-square-set
 
 ## online:
+Capri Tools
+- https://www.amazon.com/Capri-Tools-Triple-Square-10-Piece/dp/B007UQLR9U
+- https://www.walmart.com/ip/Capri-Tools-XZN-Triple-Square-Spline-Bit-Socket-Set-Metric-10-Piece/43351523
+
+Chinese:
 - https://www.amazon.com/Neiko-10078A-Triple-Square-Spline/dp/B000XYOUTA
+
+## Manufacturer:
+- https://capritools.com/shop/master-xzn-triple-square-bit-socket-set-metric/
